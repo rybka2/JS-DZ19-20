@@ -1,0 +1,22 @@
+{
+  "name": "JS-DZ19-20",
+  "homepage": "https://github.com/rybka2/JS-DZ19-20",
+  "authors": [
+    "rybka2 <annmychailova@gmail.com>"
+  ],
+  "description": "Homework",
+  "main": "main.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*",
+  	"lodash": "*"
+  }
+}

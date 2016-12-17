@@ -1,0 +1,18 @@
+{
+  "name": "JS-DZ19-20",
+  "version": "1.0.0",
+  "description": "Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rybka2/JS-DZ19-20.git"
+  },
+  "author": "Anna Mychailova",
+  "license": "ISC",
+  "dependencies": {
+      "gulp": "^3.8.11"
+   }
+}
